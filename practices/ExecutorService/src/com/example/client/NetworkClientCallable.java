@@ -11,7 +11,7 @@ public class NetworkClientCallable implements Callable<RequestResponse> {
         this.lookup = lookup;
     }
     @Override
-    public RequestResponse call() {
+    public RequestResponse call() throws RuntimeException {
         try (Socket socket = new Socket(lookup.host, lookup.port);
              Scanner scanner = new Scanner(socket.getInputStream())) {
             this.lookup.response = scanner.next();

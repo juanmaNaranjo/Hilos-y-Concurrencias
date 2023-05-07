@@ -35,7 +35,7 @@ public class NetworkClientMain {
         executorService.shutdown();
 
         try {
-            executorService.awaitTermination(5000, TimeUnit.SECONDS);
+            executorService.awaitTermination(500, TimeUnit.SECONDS);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

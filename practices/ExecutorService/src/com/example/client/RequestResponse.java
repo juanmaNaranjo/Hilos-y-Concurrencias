@@ -13,6 +13,7 @@ public class RequestResponse {
         this.port = port;
     }
 
+
     @Override
     public boolean equals(Object obj) {
         if (obj instanceof RequestResponse) {

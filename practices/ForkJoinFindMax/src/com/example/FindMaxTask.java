@@ -29,7 +29,7 @@ public class FindMaxTask extends RecursiveTask<Integer> {
             int midway = (end - start) / 2 + start;
             FindMaxTask a1 = new FindMaxTask(myArray, start, midway, threshold);
             a1.fork();
-            FindMaxTask a2 = new FindMaxTask(myArray, midway + 1, end, threshold);           
+            FindMaxTask a2 = new FindMaxTask(myArray, midway + 1, end, threshold);
             return Math.max(a2.compute(), a1.join());
         }
     }
