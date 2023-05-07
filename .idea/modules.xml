@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/13-Concurrency.iml" filepath="$PROJECT_DIR$/.idea/13-Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practices/ExecutorService/ExecutorService.iml" filepath="$PROJECT_DIR$/practices/ExecutorService/ExecutorService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practices/ForkJoinFindMax/ForkJoinFindMax.iml" filepath="$PROJECT_DIR$/practices/ForkJoinFindMax/ForkJoinFindMax.iml" />
+    </modules>
+  </component>
+</project>

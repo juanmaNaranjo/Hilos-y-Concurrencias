@@ -1,0 +1,13 @@
+
+j	java:S109"VAssign this magic number 10000 to a well-named constant, and use the constant instead.(îÍÓq
+j	java:S109"VAssign this magic number 10010 to a well-named constant, and use the constant instead.(îÍÓq
+h	java:S109"SAssign this magic number 20 to a well-named constant, and use the constant instead.(Ëä“§
+i	java:S109"TAssign this magic number 110 to a well-named constant, and use the constant instead.(Ëä“§
+n	java:S109"TAssign this magic number 500 to a well-named constant, and use the constant instead.(€­íÜüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•ýÍöùÿÿÿÿ
+y
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(è®ã¶øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›ŽÜøÿÿÿÿ
+>	java:S108"")Either remove or fill this block of code.(Ãôþ•
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¦×µ¹ûÿÿÿÿ
